@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Uneweb-blue)
 
-# Project Name
+# odin-link-images-20oct2023
 
-> One paragraph statement about the project.
+> 
 
 ![screenshot](./app_screenshot.png)
 
@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://davidcostacv.github.io/odin-link-images-20oct2023)
 
 
 ## Getting Started
@@ -49,12 +49,6 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
 
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
 
 ## 🤝 Contributing
 
